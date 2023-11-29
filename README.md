@@ -6,7 +6,7 @@
 Lab activity (25/10/2023) <br>
 -Class activity conducted on 25/10/2023 which involve the process of assembling PC.
 ## Reflection
-In this lab activity, I had learned the basic knowledge of assembling a PC which include knowing the name of PC components and where they should be installed.
+In this lab activity, I had learned the basic knowledge of assembling a PC which include knowing the name of PC components and where they should be installed. I suggest that we should be able to do more PC services such as cleaning the fans, applying thermal paste, etc.
 
 ### Courses
 
